@@ -1,0 +1,3 @@
+[submodule "nuxt-boilerplate"]
+	path = nuxt-boilerplate
+	url = git@github.com:Improwised/nuxt-boilerplate.git
